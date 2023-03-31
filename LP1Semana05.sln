@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempo", "Tempo\Tempo.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomDice", "RandomDice\RandomDice.csproj", "{CCD67B41-1B3E-49C4-8CEE-6D5B7A2ACD5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowerUnion", "LowerUnion\LowerUnion.csproj", "{07F699EB-7518-4BE0-B7CE-4334037A0FF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{CCD67B41-1B3E-49C4-8CEE-6D5B7A2ACD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCD67B41-1B3E-49C4-8CEE-6D5B7A2ACD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCD67B41-1B3E-49C4-8CEE-6D5B7A2ACD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F699EB-7518-4BE0-B7CE-4334037A0FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F699EB-7518-4BE0-B7CE-4334037A0FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F699EB-7518-4BE0-B7CE-4334037A0FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F699EB-7518-4BE0-B7CE-4334037A0FF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
